@@ -1,6 +1,6 @@
 # anonymous_messages_bot
  Бот для анонимных сообщений
-by [vsavva](https://t.me/vvsavva)
+by [vvsavva](https://t.me/vvsavva)
 # Settings Настройка 
 Setting up the bot to work correctly
 
